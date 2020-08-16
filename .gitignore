@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+platforms/
+plugins/
+www/static
+todoplan/node_modules/
+.git.zip
+.eclipse
+.bash_sessions

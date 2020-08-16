@@ -1,0 +1,2 @@
+xmit nodename.username DSN('datasetname') OUTDATA(dsname) 
+OUTDATA defines the host file's name when receiving. 
